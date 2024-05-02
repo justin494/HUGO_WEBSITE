@@ -1,0 +1,4 @@
+[submodule "HUGO_Portfolio/public1"]
+	path = HUGO_Portfolio/public1
+	url = https://github.com/justin494/justin.github.io
+	branch = main
